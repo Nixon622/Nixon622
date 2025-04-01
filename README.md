@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="[https://raw.githubusercontent.com/Nixon622/Nixon622/main/33c31a25c949cb0a16e96482129d3545.jpg](https://github.com/Nixon622/Nixon622/blob/main/33c31a25c949cb0a16e96482129d3545.jpg)" width="600" alt="Spider Lily Banner">
+    <img src="<img src="https://raw.githubusercontent.com/Nixon622/Nixon622/main/33c31a25c949cb0a16e96482129d3545.jpg" width="600" alt="Spider Lily Banner">
+)" width="600" alt="Spider Lily Banner">
 </p>
 
 <h1 align="center">Marco | カネキ |</h1>

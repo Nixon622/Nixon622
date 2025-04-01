@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[https://media.giphy.com/media/Qu3KVz6mV6Xlm/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F11118330325882669%2F&psig=AOvVaw0jRkbo79ggaO3Q2mCY-odg&ust=1743603021188000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMig-cWBt4wDFQAAAAAdAAAAABAE)" width="400" alt="Kaneki Ken Banner">
+    <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F11118330325882669%2F&psig=AOvVaw0jRkbo79ggaO3Q2mCY-odg&ust=1743603021188000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMig-cWBt4wDFQAAAAAdAAAAABAE)" width="400" alt="Kaneki Ken Banner">
 </p>
 
 <h1 align="center">Marco | カネキ |</h1>

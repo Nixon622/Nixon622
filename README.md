@@ -1,19 +1,18 @@
 # Hey, I'm Marco 👋
 
-### 🟨 Javascript | Linux | Data Visualization | Anime & Games Fan
+### 🟨 Javascript | Data Visualization | Anime & Games Fan
 
 ---
 
 ### 💡 About Me
 - 🟨 Passion for Javascript development
-- 🐧 Linux enthusiast (yes, I love ricing)
 - 🎮 Anime & Gaming addicted
 - 📊 Currently working on: **Data Visualization Projects**
 
 ---
 
 ### 🛠️ Tech Stack  
-![Tech](https://skillicons.dev/icons?i=javascript,linux,python,git,docker)
+![Tech](https://skillicons.dev/icons?i=javascript,linux,python,git,docker,sql)
 
 ---
 

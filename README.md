@@ -15,7 +15,7 @@
 ---
 
 ### 🩸 Tech Stack  
-![Tech](https://skillicons.dev/icons?i=javascript,linux,python,git,docker)
+![Tech](https://skillicons.dev/icons?i=javascript,linux,python,git,docker,typescript,postgres,nodejs)
 
 ---
 
